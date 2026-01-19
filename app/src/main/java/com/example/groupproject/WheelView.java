@@ -36,7 +36,7 @@ public class WheelView extends View {
 
     public WheelView(Context context, AttributeSet attributes){
         super(context, attributes);
-        paint.setTextSize(55);
+        paint.setTextSize(50);
         paint.setTypeface(Typeface.DEFAULT_BOLD);
         paint.setTextAlign(Paint.Align.CENTER);
     }
