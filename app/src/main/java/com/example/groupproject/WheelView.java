@@ -64,8 +64,6 @@ public class WheelView extends View {
             }
         });
         animator.start();
-
-
     }
 
     @Override
